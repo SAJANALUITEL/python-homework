@@ -1,1 +1,1 @@
-print("Hello sajana")
+print("Hello")
